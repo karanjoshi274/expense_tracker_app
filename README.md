@@ -1,7 +1,7 @@
 
 # Expense Management System using MERN Stack
 
-### Vercel Link: https://https://expense-tracker-app-24wk.vercel.app/
+### Vercel Link: https://expense-tracker-app-24wk.vercel.app/login
 
 ## Project Description:
 
